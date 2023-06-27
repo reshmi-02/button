@@ -1,0 +1,111 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+div{
+	width:70%;
+	background-color:black;
+	height:600px;
+	margin:auto;
+}
+h1{
+	color:#ffd633;
+	text-align:center;
+	padding-top:20px;
+}
+button{
+	width:20%;
+	height:40px;
+	margin-left:85px;
+	margin-top:80px;
+}
+.ab{
+	background-color:red;
+	color:white;
+	font-size:18px;
+}
+.b1{
+	background-color:orange;
+	color:red;
+	border-radius:20px;
+	font-size:18px;
+}
+.c1{
+	background-color:purple;
+	color:white;
+	border:2px solid silver;
+	font-size:18px;
+}
+.d1{
+	background-color:purple;
+	color:white;
+	border:2px dashed silver;
+	border-radius:20px;
+	font-size:18px;
+}
+.e1{
+	background-color:green;
+	color:white;
+	border:2px dotted silver;
+	border-radius:10px;
+	font-size:18px;
+}
+.f1{
+	background-color:green;
+	color:white;
+	border:2px dashed silver;
+	border-radius:10px;
+	font-size:18px;
+}
+.g1{
+	background-color:yellow;
+	color:red;
+	border:4px ridge red;
+	border-radius:10px;
+	font-size:18px;
+}
+.h1{
+	background-color:white;
+	color:red;
+	border:4px inset purple;
+	border-radius:20px 0px 20px 0px;
+	font-size:18px;
+}
+.i1{
+	background-color:pink;
+	color:black;
+	border:4px inset purple;
+	border-radius:0px 20px 0px 20px;
+	font-size:18px;
+}
+.j1{
+	background-color:pink;
+	color:black;
+	border:4px purple;
+	border-radius:0px 20px 0px 20px;
+	border-top:dotted;
+	border-bottom:dotted;
+	font-size:18px;
+}
+.k1{
+	background-color:silver;
+	color:black;
+	border:4px black;
+	border-left:dotted;
+	border-right:dotted;
+	font-size:18px;
+}
+.l1{
+	background-color:blue;
+	color:white;
+	border:4px purple;
+	border-radius:20px 0px 20px 0px;
+	border-top:dashed;
+	border-bottom:solid;
+	font-size:18px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
